@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "keywords": ["time", "ago", "symfony", "bundle", "twig"],
     "description": "Provides a simple twig filter for expressing time difference in words.",
-    "homepage": "https://github.com/time/time-ago-bundle",
+    "homepage": "https://github.com/nitishchoudhary/time",
     "authors": [
     ],
     "autoload": {
