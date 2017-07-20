@@ -1,0 +1,17 @@
+{
+    "name": "time/time-ago-bundle",
+    "type": "symfony-bundle",
+    "keywords": ["time", "ago", "symfony", "bundle", "twig"],
+    "description": "Provides a simple twig filter for expressing time difference in words.",
+    "homepage": "https://github.com/time/time-ago-bundle",
+    "authors": [
+    ],
+    "autoload": {
+        "psr-0": { "Time\\TimeAgoBundle": "" }
+    },
+    "target-dir": "Time/TimeAgoBundle",
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/symfony": ">2.7"
+    }
+}
